@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HWShopping</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="please_enter_username">Please enter the username</string>
+    <string name="please_enter_password">Please enter the password</string>
+    <string name="please_enter_right_data">Please enter the right data</string>
+    <string name="registration_success">Registration success</string>
+</resources>
